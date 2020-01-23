@@ -1,0 +1,107 @@
+.hdr {
+    height: 40px;
+    background-color: #1e211e;
+
+}
+
+body {
+    background-color: #1e211e;
+    margin-top: 0rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    margin-bottom: 0rem;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.srch {
+   display: flex;
+   justify-content: center;
+    margin-left: 270px;
+   width: 1000px;
+}
+
+footer {
+   text-align: justify;
+   margin-top: 315px;
+   margin-left: 0px;
+   background-color: #131311;
+   height: 43px;
+}
+
+/* GOOGLE */
+.google{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 85px;
+}
+
+.g {
+   color: #0b58bd;
+}
+
+.o {
+    color: #da1b1b;
+}
+
+.oo {
+    color: #f8fc09;
+}
+
+.l {
+    color: #1d9100;
+}
+
+/* /GOOGLE */
+
+/* /FONT AWESOME */
+.fa-bars{
+    margin-top: 3px;
+    margin-left: 5px;
+    color: #dddddd;
+    padding-right: 1180px;
+}
+
+.fa-bell {
+    color: #cef00d !important;
+}
+
+.fa-bell:hover {
+    color: #3aec0e !important;
+}
+
+.rem {
+    font-size: 0.9rem;
+}
+/* /FONT AWESOME */
+
+/* Links, buttons */
+.gmail, .imgs, .drive, .fa-bell {
+    width: 30px;
+    font-family: 'Roboto';
+    font-size: 18px;
+    letter-spacing: 1px;
+    margin-bottom: 3px;
+    color: #dddddd;
+    margin-left: 10px;
+    text-decoration: none;
+}
+/* /Links, buttons */
+.boy {
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+
+/* .boy, .fa-bars, .gmail, .drive, .fa-bell {
+    display: inline;
+} */
